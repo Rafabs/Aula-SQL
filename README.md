@@ -1,6 +1,6 @@
 # Curso de Introdução ao SQL
 
-Este repositório contém materiais e informações para um curso educacional de 8 aulas sobre SQL (Structured Query Language). Este material é um resumo de um curso para iniciantes.
+Este repositório contém materiais e informações para um curso educacional de 8 aulas sobre SQL (Structured Query Language). Este material é um resumo de um curso para iniciantes extraído de aulas do Curso em Vídeo.
 
 ## Visão Geral
 
